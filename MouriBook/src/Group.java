@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Group {
 
-	private String name;
+	private String name; 
 	private String description;
 	private ArrayList<User> members = new ArrayList<User>();
 	

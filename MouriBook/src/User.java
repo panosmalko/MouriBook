@@ -4,7 +4,7 @@ public class User {
 
 	private String name;
 	private String email;
-	private ArrayList<Group> groups = new ArrayList<Group>();
+	private ArrayList<Group> groups = new ArrayList<Group>(); 
 	private ArrayList<User> friends = new ArrayList<User>();
 
 	
